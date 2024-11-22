@@ -1,0 +1,15 @@
+functions-framework==3.*
+pandas==2.2.2
+google-cloud-storage
+google-cloud-secret-manager
+google-api-python-client
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
+openpyxl
+DateTime
+google-auth
+google-cloud-functions
+requests
+datetime
+numpy
